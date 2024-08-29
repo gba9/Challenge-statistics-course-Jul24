@@ -1,9 +1,9 @@
-setwd("~/Library/CloudStorage/Dropbox/CNAM/STA211/Challenge/")
+
 
 ### INITIALISATION ----
 
-load("~/Library/CloudStorage/Dropbox/CNAM/STA211/Challenge/data_test.rda")
-load("~/Library/CloudStorage/Dropbox/CNAM/STA211/Challenge/data_train.rda")
+load("data_test.rda")
+load("data_train.rda")
 
 dataTr<-data_train
 data_all<-rbind(data_train[1:32], data_test)
