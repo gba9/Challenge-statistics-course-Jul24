@@ -8,5 +8,7 @@ These data relate to the results of students in secondary education (high school
 For the challenge, we have a set of 649 individuals (students). The task is to predict the grade obtained in the third and final year of secondary school. It is therefore a regression problem.
 After an exploratory analysis of the data, you will have to predict the grade obtained by the students on the basis of a test data set.
 
-The analysis was not comprehensive (far from it!) and thus the prediction models tested might not be the best, but the goal was more to test a range of different models and compare them. Even though the choices made in accounting for the missing data and the choice of models hyperparameters was far from being perfect, a good prediction score was achieved compare to my classmates... 
-Full-lenght discussion and explainations in the report in french (not uploaded).
+______
+
+My analysis was not comprehensive (far from it!) and thus the prediction models tested might not be the best, but the goal was more to test a range of different models and compare them. Even though the choices made in accounting for the missing data and in the models hyperparameters was far from being perfect, a good prediction score was achieved compare to my classmates... 
+Full-lenght discussion and explanations in the challenge report in french (not uploaded).
